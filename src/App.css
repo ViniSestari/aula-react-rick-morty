@@ -5,20 +5,5 @@ body {
   background-color: rgb(26, 26, 26); /*cor de fundo da página*/
 }
 
-.card {
-  color: white; /*cor do texto*/
-  font-family: sans-serif; /*tipo de fonte*/
-  border: 1px solid white; /*Borda branca pequena*/
-  border-radius: 10px; /* cantos arredondados*/
-  text-align: center; /*centraliza o texto ou card*/
-  width: 20%; /*largura do card*/
-  margin:  auto; /* margin 0 pra cima e pra baixo e auto pra esquerda e pra direita, isso faz a div ficar centralizada*/
-  padding: 10px; /*espaço entre o card e a imagem*/
-  box-shadow: 5px 6px 0 white; /*sombra da caixa*/
-}
-.card img {
-  width: 100%; /* largura de 100% da imagem*/
-  border-radius: 8px; /* Cantos arredondados */
-}
 
  
