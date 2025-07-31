@@ -17,11 +17,13 @@ function App() {
   const personagens = [item1, item2, item3]
   return (
     <>
+    <div className= 'lista'>
       {
         personagens.map(function (umPersonagem){
           return <Card info= {umPersonagem} />
         })
       }
+    </div>
     </>
   )
 }
