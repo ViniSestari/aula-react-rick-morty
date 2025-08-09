@@ -1,5 +1,6 @@
 import './App.css'
 import Card from './Card'
+import Sobre from './Sobre'
 
 function App() {
   const item1 = {
